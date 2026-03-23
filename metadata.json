@@ -1,0 +1,5 @@
+{
+  "name": "Music Video Studio",
+  "description": "A comprehensive music video editor with AI-generated lyrics, visual effects, and real-time audio visualizers.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
